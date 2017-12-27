@@ -1,0 +1,5 @@
+.*idea
+*.pyc
+nohup.out
+__pycache__
+itchat.pkl
